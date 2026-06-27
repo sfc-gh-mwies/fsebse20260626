@@ -39,6 +39,9 @@
 **Demo**
 - YouTube Demo: *(coming soon — placeholder for Will's ClickHouse vs. Snowflake benchmark video)*
 
+**Blog Post**
+- [Efficient Ingest for Query-Ready Data in Snowflake](https://www.snowflake.com/en/blog/engineering/efficient-snowflake-ingestion-query-ready/) — Will's official response to ClickHouse's cost benchmark. Covers the anti-patterns in their methodology (wrong warehouse gen, mixed ingestion architectures, excluded client-side costs), Snowflake's recommended production ingestion setup, and the Interactive Warehouse advantage for high-concurrency serving workloads.
+
 ---
 
 ### Ontologies Vs. Semantic Views
