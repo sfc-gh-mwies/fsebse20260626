@@ -18,11 +18,11 @@
 
 | # | Topic | Presenter |
 |---|---|---|
-| 1 | [Can We Really Be the Control Plane?](#1-can-we-really-be-the-control-plane) | Mike Wies |
-| 2 | [Behind the Keynote: The Sanofi Story](#2-behind-the-keynote-the-sanofi-story) | Ken Reycraft |
-| 3 | [ClickHouse Compete: Interactive Analytics](#3-clickhouse-compete-interactive-analytics) | Will Xu |
-| 4 | [Is Co-Work the New BI?](#4-is-co-work-the-new-bi) | Sébastien Notebaert |
-| 5 | [Ontologies + Sense + Horizon Context](#5-ontologies--sense--horizon-context) | Vikram + Olivier |
+| 1 | Can We Really Be the Control Plane? | Mike Wies |
+| 2 | Behind the Keynote: The Sanofi Story | Ken Reycraft |
+| 3 | ClickHouse Compete: Interactive Analytics | Will Xu |
+| 4 | Is Co-Work the New BI? | Sébastien Notebaert |
+| 5 | Ontologies + Sense + Horizon Context | Vikram + Olivier |
 
 ---
 
