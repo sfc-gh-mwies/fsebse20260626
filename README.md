@@ -18,6 +18,8 @@
 | 4 | Is Co-Work the New BI? | Sébastien Notebaert |
 | 5 | Ontologies + Sense + Horizon Context | Vikram + Olivier |
 
+<img src="https://raw.githubusercontent.com/sfc-gh-mwies/fsebse20260626/main/resources/team-photo.png" width="680" alt="Team Canada (Team Anand)"/>
+
 ---
 
 ## ClickHouse Compete: Interactive Analytics
