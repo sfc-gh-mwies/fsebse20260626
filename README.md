@@ -1,12 +1,6 @@
 # For the SE, By the SE — June 26, 2026
 ## Team Canada (Team Anand)
 
-> *"No marketing replay. No exec decks. Just SEs sharing what's working — for SEs who need to go close deals."*
-
----
-
-## Session Recording
-
 **Recording:** [Zoom Link](https://snowflake.zoom.us/rec/share/IX3CBZYe38GKt-2PlNf9D17T5b3IiuWKHmtAGiKnVrqYQGsI7J5hm9rHr-rVTjw-.sYNgJ9we0B_d9I61)
 **Passcode:** `#Du6GKG4`
 
@@ -14,7 +8,7 @@
 
 ---
 
-## Agenda
+## Topics
 
 | # | Topic | Presenter |
 |---|---|---|
@@ -26,9 +20,7 @@
 
 ---
 
-## Resources
-
-### ClickHouse Compete: Interactive Analytics
+## ClickHouse Compete: Interactive Analytics
 **Presenter:** Will Xu (Honorary Canadian)
 
 - 9x higher QPS vs. Gen 1 at 200-concurrent-user load
@@ -44,7 +36,7 @@
 
 ---
 
-### Ontologies Vs. Semantic Views
+## Ontologies Vs. Semantic Views
 **Presenters:** Vikram + Olivier
 
 When do semantic views reach their limits? A practical, customer-grounded look at ontologies on Snowflake
